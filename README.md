@@ -11,4 +11,4 @@
 - git status :show status of current working directory
 - git log :lists commit history
 - git log --oneline :list commit history(compact)
-- 
+- git config -l : lists local git configuration settings 
