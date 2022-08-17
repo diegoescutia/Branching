@@ -22,3 +22,7 @@ some random line
 ### Other commmands
 - git help : list git subcommands and options
 - git config --help: shows options for git config
+
+### Remote commmands
+- git remote add origin someURL : connect local repo to remote repo url as origin
+- git push origin branchName - push local commits to remore repo into brach branchName. 
