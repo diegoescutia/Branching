@@ -18,3 +18,7 @@ some random line
 - git branch branchName - creates branch called branchName
 - git checkout branchName - switch to branch called branchName
 - git checkout -b otherBranch - creates a new branch(if it doesnt exists) called otherBranch and simultaneously switches to it.
+
+### Other commmands
+- git help : list git subcommands and options
+- git config --help: shows options for git config
