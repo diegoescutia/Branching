@@ -25,4 +25,6 @@ some random line
 
 ### Remote commmands
 - git remote add origin someURL : connect local repo to remote repo url as origin
-- git push origin branchName - push local commits to remore repo into brach branchName. 
+- git push origin branchName - push local commits to remore repo into brach branchName.
+
+![UML](uml.png)
